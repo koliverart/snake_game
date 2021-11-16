@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#canvas{
+  border: solid 1px;
+  background-color: #292929;
+}
+
+#snake{
+  border: solid 1px;
+}
